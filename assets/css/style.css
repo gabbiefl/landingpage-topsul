@@ -211,7 +211,7 @@ header {
 /* ======= HERO ======= */
 .hero-container {
   position: relative;
-  background: url(/assets/img/hero/banner.png) no-repeat center center/cover;
+  background: url('../img/hero/banner.png') no-repeat center center/cover;
   min-height: 80vh;
   display: flex;
   flex-direction: column;
